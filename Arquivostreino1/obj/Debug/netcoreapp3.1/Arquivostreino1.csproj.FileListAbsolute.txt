@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.exe
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.deps.json
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.dll
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\bin\Debug\netcoreapp3.1\Arquivostreino1.pdb
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.dll
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.pdb
+C:\Users\convencaoinfo10\source\repos\Arquivostreino1\Arquivostreino1\obj\Debug\netcoreapp3.1\Arquivostreino1.genruntimeconfig.cache
